@@ -17,3 +17,6 @@ Week 4 = Viewing,
 Week 5 = Optimizing,
 
 Week 6 = Scaling,
+
+![Monty Python](https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/6f212f1bc341.png)
+
